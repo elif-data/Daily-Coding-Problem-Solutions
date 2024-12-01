@@ -1,2 +1,5 @@
 # Daily-Coding-Problem-Solutions
-Technical Interview Prep
+
+FAANG-level programming interview questions and solutions!
+
+Questions are provided by dailycodingproblem and you can subscribe to their newsletter to receive daily interview questions asked in the past!
