@@ -4,7 +4,6 @@ I will be solving FAANG*-level programming interview questions here to keep my c
 
 Questions are provided by [dailycodingproblem](https://www.dailycodingproblem.com/) and you can subscribe to their newsletter to receive daily interview questions asked in the past!
 
----
 
 ## Problem 273
 
