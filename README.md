@@ -16,7 +16,7 @@ A fixed point in an array is an element whose value is equal to its index if one
 For example, given [-6, 0, 2, 40], you should return 2. Given [1, 5, 7, 8], you should return False.
 
 
-[Solution](https://github.com/elif-data/Daily-Coding-Problem-Solutions/blob/main/Technical%20Interview%20Prep.ipynb)
+[Solution](https://github.com/elif-data/Daily-Coding-Problem-Solutions/blob/main/Problem%20273.ipynb)
 
 
 
